@@ -1,7 +1,7 @@
 # Face-Mask-Detection
 
 # install dependency
-pip3  install -r requirement.txt
+pip3  install -r requirements.txt
 
 # Run 
 python detect_mask_video.py
